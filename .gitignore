@@ -1,4 +1,4 @@
 Notebook4/*.csv
-.env
-RecommenderSystem/.cache
 RecommenderSystem/*.csv
+*.env
+RecommenderSystem/*.cache
