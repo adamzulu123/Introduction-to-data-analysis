@@ -1,4 +1,9 @@
+# Ignorowanie plików CSV w katalogach Notebook4 i RecommenderSystem
 Notebook4/*.csv
 RecommenderSystem/*.csv
-*.env
+
+# Ignorowanie pliku .env
+.env
+
+# Ignorowanie plików cache
 RecommenderSystem/*.cache
