@@ -7,3 +7,4 @@ RecommenderSystem/*.csv
 
 # Ignorowanie plików cache
 RecommenderSystem/*.cache
+Notebook6/*.csv
